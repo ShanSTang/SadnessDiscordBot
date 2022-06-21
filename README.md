@@ -6,4 +6,4 @@ If you're running this in collab, you'll also need to download those models. The
 The models were trained in the file: sadnessAnalyzerTraining.ipynb using data found here: https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset?select=clean_non_d_tweets.csv. 
 
 
-
+Video Link: https://clipchamp.com/watch/x2jY5LhqDcX
