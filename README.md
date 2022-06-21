@@ -5,5 +5,7 @@ If you're running this in collab, you'll also need to download those models. The
 
 The models were trained in the file: sadnessAnalyzerTraining.ipynb using data found here: https://www.kaggle.com/datasets/hyunkic/twitter-depression-dataset?select=clean_non_d_tweets.csv. 
 
+Discord Token: OTg3NzYyODk4Nzk5NTU4NzA2.GYwXwm.2nMztFs7Mn4c8oaPPw6AoIgeBfqJdQEtIgu-3M 
+^^^ Bot only on a test server anyways
 
 Video Link: https://clipchamp.com/watch/x2jY5LhqDcX
