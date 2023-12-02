@@ -8,4 +8,4 @@ The models were trained in the file: sadnessAnalyzerTraining.ipynb using data fo
 Discord Token: OTg3NzYyODk4Nzk5NTU4NzA2.GYwXwm.2nMztFs7Mn4c8oaPPw6AoIgeBfqJdQEtIgu-3M 
 ^^^ Bot only on a test server anyways
 
-Video Link: https://clipchamp.com/watch/x2jY5LhqDcX
+Video Link: https://youtu.be/v1k9hIzAA2E
